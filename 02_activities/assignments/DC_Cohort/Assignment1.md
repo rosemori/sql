@@ -210,4 +210,12 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 ```
 Your thoughts...
+    
+    Rida Qadri's article "When Database Get to Define Family" examines the problematic system of Pakistan's computerized ID system, NADRA. The protagonist of RQ's story, Riz, cannot be officially recognized as a "normal" functioning citizen of their society because they do not have two married parents. The Pakistanian ID system is not based on biometrics of individuals but on social relations –– reminescence of an older system of how societies functioned and how identities were prescribed.
+    Every system design is ultimately based on an overarching driving ideology. 
+    In the case of the Pakistani ID system, the core issue is the binary heterosexual, conventional marriage-based social structure as the only accepted norm, on which the whole schema of the databse was designed. As the society progresses, definitions change, relational structures change, and these changes can cause serious challenges to how data systems function. Apparently there is no easy way in fixing this problem; the relation-based schema cannot be simply rewritten, and people have to resort to all kinds of creative ways to bypass system criteria.
+    There are a few refelction points that I found intriguing reading this article. 
+    The NADRA problem also illustrate how advancing technology might not help solving the problems societies face but can often contribute to exacerbating such issues: prior to a computerized ID system, people who did not have two married parents could probably get official IDs if the government agency allowed it; prior to a national network that functions around an ID system, simple everyday tasks like buying a bus ticket would not be so challenging. 
+    The desynchrony of social development and technological development is also at play. The NADRA system was first put to use in 1951, a time when non-binary genders were not recognized and children born out of officially recognized marriages were probably not accepted, and the designers of this database might not have considered the potential issues of a social-relation-baesd schema. When the system could not change along with social progress, the people who fall out of the accepted social norm always suffer more.  
 ```
+
